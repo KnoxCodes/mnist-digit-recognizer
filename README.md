@@ -2,6 +2,9 @@
 
 A deep learning web app where users can draw digits and get real-time predictions using a PyTorch model trained on MNIST.
 
+## 📸 Demo
+![Demo](assets/demo.png)
+
 ## 🚀 Features
 - Draw digit on canvas
 - AI prediction
