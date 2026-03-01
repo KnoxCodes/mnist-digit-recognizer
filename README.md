@@ -1,4 +1,4 @@
-# 🧠 MNIST Digit Recognizer (Streamlit)
+# MNIST Digit Recognizer (Streamlit)
 
 A deep learning web app where users can draw digits and get real-time predictions using a PyTorch model trained on MNIST.
 
